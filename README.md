@@ -25,3 +25,6 @@
     * 屠 ---- 分享一个electron版本网易接口音乐
 	* [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
 	* ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)
+
+* 每月喜好计划🎮
+	* 10月份 --- Spider Man 帽子一顶🤠

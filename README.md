@@ -15,3 +15,13 @@
   * 屠 ---- 分享一个开源3d icon
     * [3dicon]("https://3dicons.co/")
     * ![icon nothing](./assets/imgs/3dicon.png)
+
+* 2021.10.16 Learing Record
+    ```javascript
+    * 肖 ---- 开发新功能👨‍💻 - 打麻将🀄
+    * 胡 ---- 吃饭🍚 - 打麻将🀄
+    * 屠 ---- 写了一道双向指针的OJ题👨‍💻	
+    ```
+    * 屠 ---- 分享一个electron版本网易接口音乐
+	* [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
+	* ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)

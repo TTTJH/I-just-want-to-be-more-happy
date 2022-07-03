@@ -2,9 +2,18 @@
 * Just like the title says.👨‍💻👨‍💻👨‍💻
 * 请尽情写你所想。🐱‍🏍
 
-* 屠 ---- 分享一个electron版本网易接口音乐
-	* [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
-	* ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)
+* 喜好列表♥️
+	* ♥️像素画👾
+	* ♥️3D建模🖲️
+	* 高达🤖
+	* 游戏外设🎮
+	* 智能家居🛖
+	* Linux发行版系统🖥️
+	* 语罐头板帽🧢
+	* 说唱🎤
+	* 漫威和DC🎦
+	* 各种FQ方式🕸️
+	* 
 
 * 每月喜好计划🎮
 	* 10月份 --- Spider Man 🧢帽子一顶
@@ -35,6 +44,11 @@
 	* 6月份 --- 购买了罗技GPW一代 我的第一个游戏外设 🖱️ 感觉fps技术有所提升
 	* 6月份 --- 购买了玩家国度的魔导士NX游戏键盘 ⌨️ 非常非常酷的一款键盘 越用越喜欢
 	* 6月份 --- 堡垒之夜充值大概有300软妹币💰
+	
 * 想做的事情计划🦾🪄🪄🪄🔮
 	* 购买一个3D打印机---打印自己喜欢的小物件，再加上笔涂。
 	* 购买一个贴纸制作机，自己做自己喜欢的贴纸。
+
+* 屠 ---- 分享一个electron版本网易接口音乐
+	* [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
+	* ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)

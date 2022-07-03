@@ -2,27 +2,9 @@
 * Just like the title says.👨‍💻👨‍💻👨‍💻
 * 请尽情写你所想。🐱‍🏍
 
-* 2021.10.14 Learning Record
-    ```javascript
-    * 屠 ---- 开始重新学习《你不知道的JS》📔
-    ```
-* 2021.10.15 Learning Record
-    ```javascript
-    * 屠 ---- 彻底搞懂了 我不知道的JS 中for循环加演示器的例子。
-    ```
-  * 屠 ---- 分享一个开源3d icon
-    * [3dicon]("https://3dicons.co/")
-    * ![icon nothing](./assets/imgs/3dicon.png)
-
-* 2021.10.16 Learing Record
-    ```javascript
-    * 肖 ---- 开发新功能👨‍💻 - 打麻将🀄
-    * 胡 ---- 吃饭🍚 - 打麻将🀄
-    * 屠 ---- 写了一道双向指针的OJ题👨‍💻
-    ```
-    * 屠 ---- 分享一个electron版本网易接口音乐
-        * [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
-        * ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)
+* 屠 ---- 分享一个electron版本网易接口音乐
+	* [yesplaymusic]("https://github.com/qier222/YesPlayMusic")
+	* ![yesplaymusic yesplaymusic](./assets/imgs/yesplaymusic.png)
 
 * 每月喜好计划🎮
 	* 10月份 --- Spider Man 🧢帽子一顶
@@ -47,7 +29,11 @@
 	* 2月份 --- 购买了《自杀小队Ⅱ》的光碟💿
 	* 2月份 --- 购买了《尚气》的光碟💿 帅炸了这部电影。
 	* 3月份 --- 购买了 索斯机械兽---村雨  童年梦想
-	* 3月份 --- 购买了 robot魂-元祖高达-横滨 帅炸 
+	* 3月份 --- 购买了 robot魂-元祖高达-横滨 🤖 帅炸 
+	* 5月份 --- 贷款购买了 联想拯救者R9000P 3060 弥补了我现在的PC游戏设备空缺期
+	* 5月份 --- 购买了 北通宙斯精英手柄 🎮 当之无愧的国产精英手柄
+	* 6月份 --- 购买了罗技GPW一代 我的第一个游戏外设 🖱️ 感觉fps技术有所提升
+	* 6月份 --- 购买了玩家国度的魔导士NX游戏键盘 ⌨️ 非常非常酷的一款键盘 越用越喜欢
 * 想做的事情计划🦾🪄🪄🪄🔮
 	* 购买一个3D打印机---打印自己喜欢的小物件，再加上笔涂。
 	* 购买一个贴纸制作机，自己做自己喜欢的贴纸。
